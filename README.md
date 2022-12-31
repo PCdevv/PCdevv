@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer interested in Mobile Web Artificial Intelegence, like to play competitive games. Finished React Next Laravel Project. Have experience with bootstrap and tailwind CSS 
+Full-stack Web developer. Interested in Mobile, Web, Artificial Intelegence. Like to play competitive games.
 
 
 ## 🌐 Socials:
